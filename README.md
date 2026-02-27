@@ -19,23 +19,21 @@ Express.js API with TypeScript, Sequelize ORM, and PostgreSQL database integrati
 
 ## Environment Configuration
 
-## ENV
-
 # Configuración de la base de datos
-DB_HOST=postgres
-DB_PORT=5432
-DB_USER=postgres
-DB_PASSWORD=postgres
-DB_NAME=prueba_tecnica
+- DB_HOST=postgres
+- DB_PORT=5432
+- DB_USER=postgres
+- DB_PASSWORD=postgres
+- DB_NAME=prueba_tecnica
 
 # Configuración del servidor
-NODE_ENV=development
-PORT=3000
+- NODE_ENV=development
+- PORT=3000
 
 # Configuración de pgAdmin
-PGADMIN_EMAIL=admin@example.com
-PGADMIN_PASSWORD=admin
-PGADMIN_PORT=5050
+- PGADMIN_EMAIL=admin@example.com
+- PGADMIN_PASSWORD=admin
+- PGADMIN_PORT=5050
 
 
 
