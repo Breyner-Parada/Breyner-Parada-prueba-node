@@ -20,7 +20,7 @@ Express.js API with TypeScript, Sequelize ORM, and PostgreSQL database integrati
 ## Environment Configuration
 
 # Configuración de la base de datos
-- DB_HOST=postgres
+- DB_HOST=localhost
 - DB_PORT=5432
 - DB_USER=postgres
 - DB_PASSWORD=postgres
